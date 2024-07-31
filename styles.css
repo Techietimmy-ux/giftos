@@ -23,10 +23,13 @@
 
 .card img{
     width: 40%;
-    height: 170px;
+    height: 140px;
     
 }
 
+.rounded-circle{
+    width: fit-content !important;
+}
 span{
     color: #db4566;
 
