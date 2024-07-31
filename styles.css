@@ -1,0 +1,101 @@
+
+.nav-style{
+    background-color: #f9ece6;
+}
+
+#header{
+    background-color: #f89cab;
+
+}
+
+.btn-contact, .btn-view-all, .btn-hide{
+    background-color: #db4566 !important;
+}
+
+.btn-view-all, .btn-hide{
+    border: #db4566 !important;
+}
+
+#saving{
+    background-color: #40cfba;
+}
+
+
+.card img{
+    width: 40%;
+    height: 170px;
+    
+}
+
+span{
+    color: #db4566;
+
+}
+
+
+.buyNow{
+    background: #0a8eac !important;
+    border: none;
+    border-radius: 0;
+}
+
+.seeMore{
+    background: white !important;
+    border: none;
+    border-radius: 0;
+}
+
+.FD img{
+    width: 15%;   
+}
+
+#gift{
+    background: #320b57;
+}
+
+.buyNow2{
+    background: #fff !important;
+    border: none;
+    border-radius: 0;
+}
+
+.seeMore2{
+    background: #6929a5 !important;
+    border: none;
+    border-radius: 0;
+}
+
+form input{
+    width: 96%;
+    margin: 10px 2% 0 ;
+    border: 1px solid grey;
+}
+
+input::placeholder{
+    font-weight: 700;
+    color: black;
+}
+
+.send{
+    background: #db4566 !important;
+    border: none;
+    border-radius: 0;
+}
+
+.cardName{
+    color: #db4566;
+}
+
+.back-front{
+    cursor: pointer;
+}
+
+#footer{
+    background-color: #2d2d2d;
+}
+
+.subscribe{
+    background: #db4566;
+    color: white;
+    font-weight: 500;
+}
